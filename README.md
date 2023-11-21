@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0033)https://onepage.one/preview/5219/ -->
 <html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="description" content="Подробности о продукте">
