@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Подробности о продукте">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-    <meta property="og:type" content="website">
+   
     <meta property="og:site_name" content="Мой продукт">
     <meta property="og:image" content="images/ogimage.png">
     <meta name="generator" content="onepage">
