@@ -1,16 +1,5 @@
-<?xml encoding="utf-8"?>
-<!DOCTYPE html>
-<!--
-   ___  _ __   ___ _ __   __ _  __ _  ___
-  / _ \| '_ \ / _ \ '_ \ / _` |/ _` |/ _ \
- | (_) | | | |  __/ |_) | (_| | (_| |  __/
-  \___/|_| |_|\___| .__/ \__,_|\__, |\___|
-                  | |           __/ |
-                  |_|          |___/
--->
-<html lang="ru">
-  <head>
-    <meta charset="utf-8">
+<html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta charset="utf-8">
     <meta name="description" content=
     "Обязательно, обратите внимание. Тут, всегда, будут актуальные контактные данные. При форс-мажоре - контакты будут обновлены. Возник вопрос ?, не стесняйтесь и спрашивайте.">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
