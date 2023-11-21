@@ -1,4 +1,4 @@
-<?xml encoding="utf-8"?>
+
 
 <html lang="ru">
   <head>
