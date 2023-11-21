@@ -1,5 +1,7 @@
-<?xml encoding="utf-8"?>
+////
 <!DOCTYPE html>
+<html dir='ltr' lang='ru'>
+<head><?xml encoding="utf-8"?>
 <html lang="ru">
   <head>
     <meta charset="utf-8">
