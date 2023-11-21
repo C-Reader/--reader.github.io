@@ -1,9 +1,4 @@
-////
-<!DOCTYPE html>
-<html dir='ltr' lang='ru'>
-<head><?xml encoding="utf-8"?>
-<html lang="ru">
-  <head>
+
     <meta charset="utf-8">
     <meta name="description" content=
     "Обязательно, обратите внимание. Тут, всегда, будут актуальные контактные данные. При форс-мажоре - контакты будут обновлены. Возник вопрос ?, не стесняйтесь и спрашивайте.">
