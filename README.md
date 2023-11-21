@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="utf-8">
@@ -37,13 +36,10 @@
     </style>
   </head>
   <body class="body body-bg--gradient">
-    <div class="label">
-      <a href="http://onepage.one/" target="_blank">onepage.</a>
-    </div>
+  
     <header class="header header--center-layout">
       <div class="header__container">
-        <div class="header__logo">
-          <div class="header__logo-text">
+        
             Мой продукт
           </div>
         </div>
