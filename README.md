@@ -1,3 +1,4 @@
+
 <html lang="ru">
  <head>
     <meta charset="utf-8">
@@ -50,7 +51,7 @@
 			  Telegram: <a href="https://t.me/nop_byte" >https://t.me/nop_byte</a>
 			  <br>
 			  <br>
-			  Сайт: <a href="https://nop-byte.blogspot.com">https://nop-byte.blogspot.com</a>
+			  Сайт: <a href="https://nop-byte.blogspot.com" title="Ссылка HTML" style="color:#FFFF00">nop-byte.blogspot.com</a>
             </p>
           </div>
         </section>
